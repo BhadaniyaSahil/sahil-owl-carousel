@@ -88,17 +88,18 @@ body {
     top: 150px;
 }
 
-.nav1 button {
+.nav1 .git {
     margin: 0px 12px 5px 0px;
     padding: 16px 32px;
     background: #1ccacd;
     color: #ffffff;
     border: 1px solid #ffffff;
     font-size: 20px;
+    text-decoration: none;
     font-family: "Lato", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 }
 
-.nav1 button:hover {
+.nav1 .git:hover {
     background: #ff3f4d;
     color: #ffffff;
     cursor: pointer;
